@@ -12,7 +12,7 @@
 
 #### Data prevista para entrega:  
 
-- [x] 31/07/2024 
+- [x] XX/XX/2024 
 
 ---
 
